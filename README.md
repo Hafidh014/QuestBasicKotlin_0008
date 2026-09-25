@@ -14,3 +14,5 @@
 5.Mendapatkan View bersifat Read-Only dari mutable List
 <img width="1915" height="1031" alt="Screenshot 2026-09-25 132004" src="https://github.com/user-attachments/assets/02076702-0b1c-4ab0-bcb2-f0f25df74b67" />
 
+6. COLLECTIONS: SET
+<img width="1919" height="1039" alt="Screenshot 2026-09-25 133559" src="https://github.com/user-attachments/assets/d9e57051-c0fb-4d92-8905-41c5d7a08a3b" />
