@@ -1,4 +1,4 @@
-# QuestBasicKotlin_0008
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/31808a03-0903-4b6b-b716-0a3604dde871" /># QuestBasicKotlin_0008
 1. Dasar dan Hello World
 <img width="1919" height="1079" alt="Screenshot 2026-09-25 131129" src="https://github.com/user-attachments/assets/8c831a2e-0ff9-4c40-9627-ddcb024a31cf" />
 
@@ -19,3 +19,6 @@
 
 7. Collection Map
 <img width="1907" height="1032" alt="Screenshot 2026-09-25 134144" src="https://github.com/user-attachments/assets/668ed8cc-196d-4a7d-b356-8c2bb0b5c2e5" />
+
+8.Conditional Expressions
+<img width="1918" height="1032" alt="Screenshot 2026-09-25 134428" src="https://github.com/user-attachments/assets/6bbb34e1-4ad1-4a77-8c50-9ccbf950b6f7" />
