@@ -31,3 +31,6 @@
 
 11.Class dan Object
 <img width="1911" height="1029" alt="Screenshot 2026-09-25 135212" src="https://github.com/user-attachments/assets/1be9d0f5-4d5b-4410-9ff9-f057514c49a2" />
+
+12.Data Classes
+<img width="1907" height="1031" alt="Screenshot 2026-09-25 135421" src="https://github.com/user-attachments/assets/842161c7-ae91-4a17-b509-f340d5331a60" />
