@@ -34,3 +34,6 @@
 
 12.Data Classes
 <img width="1907" height="1031" alt="Screenshot 2026-09-25 135421" src="https://github.com/user-attachments/assets/842161c7-ae91-4a17-b509-f340d5331a60" />
+
+13.Null Safety
+<img width="1914" height="1031" alt="Screenshot 2026-09-25 135838" src="https://github.com/user-attachments/assets/584f05c1-91a4-4f54-9fc5-79cd71a73f47" />
