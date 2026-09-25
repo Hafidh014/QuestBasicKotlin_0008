@@ -25,3 +25,6 @@
 
 9.Ranges dan Loops
 <img width="1916" height="1029" alt="Screenshot 2026-09-25 134804" src="https://github.com/user-attachments/assets/20430bad-be5a-4e0a-b51f-565c3ad36967" />
+
+10.Functions dan Parameter
+<img width="1916" height="1029" alt="Screenshot 2026-09-25 134955" src="https://github.com/user-attachments/assets/5188ee75-3965-49e1-aca0-56eb7010d490" />
