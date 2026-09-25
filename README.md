@@ -28,3 +28,6 @@
 
 10.Functions dan Parameter
 <img width="1916" height="1029" alt="Screenshot 2026-09-25 134955" src="https://github.com/user-attachments/assets/5188ee75-3965-49e1-aca0-56eb7010d490" />
+
+11.Class dan Object
+<img width="1911" height="1029" alt="Screenshot 2026-09-25 135212" src="https://github.com/user-attachments/assets/1be9d0f5-4d5b-4410-9ff9-f057514c49a2" />
