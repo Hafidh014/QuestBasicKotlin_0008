@@ -22,3 +22,6 @@
 
 8.Conditional Expressions
 <img width="1918" height="1032" alt="Screenshot 2026-09-25 134428" src="https://github.com/user-attachments/assets/6bbb34e1-4ad1-4a77-8c50-9ccbf950b6f7" />
+
+9.Ranges dan Loops
+<img width="1916" height="1029" alt="Screenshot 2026-09-25 134804" src="https://github.com/user-attachments/assets/20430bad-be5a-4e0a-b51f-565c3ad36967" />
