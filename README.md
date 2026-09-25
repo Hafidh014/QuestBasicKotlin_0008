@@ -16,3 +16,6 @@
 
 6. COLLECTIONS: SET
 <img width="1919" height="1039" alt="Screenshot 2026-09-25 133559" src="https://github.com/user-attachments/assets/d9e57051-c0fb-4d92-8905-41c5d7a08a3b" />
+
+7. Collection Map
+<img width="1907" height="1032" alt="Screenshot 2026-09-25 134144" src="https://github.com/user-attachments/assets/668ed8cc-196d-4a7d-b356-8c2bb0b5c2e5" />
