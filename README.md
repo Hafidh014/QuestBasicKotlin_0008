@@ -7,3 +7,7 @@
 
 3.Deklarasi variabel dengan dan tanpa inisialisasi, serta penentuan tipe secara eksplisit
 <img width="1911" height="1054" alt="Screenshot 2026-09-25 131744" src="https://github.com/user-attachments/assets/ea9b094c-16f6-4c86-addd-e9398c1360a1" />
+
+4.Membuat Read-only List dan Mutable List
+<img width="1916" height="1033" alt="Screenshot 2026-09-25 131836" src="https://github.com/user-attachments/assets/bc698b08-8ccf-4840-93be-0c019ad22220" />
+
