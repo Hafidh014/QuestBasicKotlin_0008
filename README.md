@@ -11,3 +11,6 @@
 4.Membuat Read-only List dan Mutable List
 <img width="1916" height="1033" alt="Screenshot 2026-09-25 131836" src="https://github.com/user-attachments/assets/bc698b08-8ccf-4840-93be-0c019ad22220" />
 
+5.Mendapatkan View bersifat Read-Only dari mutable List
+<img width="1915" height="1031" alt="Screenshot 2026-09-25 132004" src="https://github.com/user-attachments/assets/02076702-0b1c-4ab0-bcb2-f0f25df74b67" />
+
